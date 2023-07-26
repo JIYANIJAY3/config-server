@@ -104,7 +104,7 @@ management:
 #swagger openapi configuration
 openapi:
   service:
-    title: campaign-auth Local server doc
+    title: campaign-auth Local server document
     version: 1.0.0
     url: ${GATEWAY_URL}
 springdoc:
