@@ -1,3 +1,6 @@
+user:
+  msg:hello
+  
 server:
   port: 9071
   servlet:
